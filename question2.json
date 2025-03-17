@@ -1,0 +1,22 @@
+[
+  {
+    "questionNo": 1,
+    "question": "A puzzle appeared on the bridge’s shining surface: Fill in the missing number to continue.",
+    "options":["8","×","9","=","","×","8"],
+    "answers": ["8","×","9","=","9","×","8"]
+
+  },
+  {
+    "questionNo": 2,
+    "question": "A glowing rune revealed an equation: What number completes the pattern?",
+    "options":["12","×","6","=","6","×",""],
+    "answers": ["12","×","6","=","6","×","12"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "The final stretch of the bridge displayed one last challenge: Find the missing number to take the last step.",
+    "options":["10","×","7","=","","×","10"],
+    "answers": ["10","×","7","=","7","×","10"]
+  }
+]

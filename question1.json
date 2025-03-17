@@ -1,0 +1,35 @@
+[
+  {
+    "questionNo": 1,
+    "question": "A swirling mist formed numbers in the air: Fill in the missing numbers to take the next step.",
+    "options":["","×","9","=","63","9","×","","=","81","12","×","","=","36"],
+    "answers": ["7","×","9","=","63","9","×","9","=","81","12","×","3","=","36"]
+
+  },
+  {
+    "questionNo": 2,
+    "question": "The wind whispered a challenge: Fill in the missing numbers to complete the puzzle.",
+    "options":["","×","8","=","40","9","×","","=","90","11","×","","=","44"],
+    "answers": ["5","×","8","=","40","9","×","10","=","90","11","×","4","=","44"]
+
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "The bridge sparkled, revealing new numbers: Fill in the missing numbers to move forward.",
+    "options":["","×","7","=","28","8","×","","=","64","10","×","","=","100"],
+    "answers": ["4","×","7","=","28","8","×","8","=","64","10","×","10","=","100"]
+  },
+  {
+    "questionNo": 4,
+    "question": "The crystals pulsed with soft blue light: Fill in the missing numbers to keep going.",
+    "options":["","×","9","=","72","12","×","","=","96","7","×","","=","35"],
+    "answers": ["8","×","9","=","72","12","×","8","=","96","7","×","5","=","35"]
+  },
+  {
+    "questionNo": 5,
+    "question": "A gust of wind carried glowing symbols through the air:  Fill in the missing numbers to step forward.",
+    "options":["11","×","","=","121","8","×","","=","80","9","×","","=","36"],
+    "answers": ["11","×","11","=","121","8","×","10","=","80","9","×","4","=","36"]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "The first crystal lit up with a question:<br> Is this true or false?<br><img width='40%' src='./images/1.png'>",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q2",
+    "question": "A golden light shimmered beneath their feet, showing a new puzzle:<br> Do you agree?<br><img width='40%' src='./images/2.png'>",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3",
+    "question": "The next step only appeared if they answered correctly:<br> Is this statement correct?<br><img width='40%' src='./images/3.png'>",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4",
+    "question": "A floating orb revealed another challenge:<br> Choose wisely!<br><img width='40%' src='./images/4.png'>",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5",
+    "question": "A hidden message glowed on the bridge’s surface:<br> Is this correct?<br><img width='40%' src='./images/5.png'>",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q14",
+    "question": "The last stone of the bridge had an important test:<br> Is this True or False?<br><img width='60%' src='./images/6.png'>",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15",
+    "question": "As they stepped onto solid ground, the final puzzle appeared:<br> Is this True or False?<br><img width='60%' src='./images/7.png'>",
+    "options": ["True", "False"],
+    "correct": 1
+  }
+]
